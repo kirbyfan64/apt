@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: refi64 apt
+Label: refi64 apt
+Codename: artful
+Date: Tue, 24 Oct 2017 22:33:11 UTC
+Architectures: i386 amd64
+Components: main artful
+Description: todo
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 29723cda35fd7e4ea20d18df0d780a8b 90 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 6d1f356c55bf33445315b3d7ce0c5afa 91 main/binary-amd64/Release
+ b487adb89cbff6670c560701b86c13ce 813 artful/binary-i386/Packages
+ 525221c332fb579c75fcf5fdb5f9e174 560 artful/binary-i386/Packages.gz
+ 1a505fabe566af5b0c9c61f17af80289 92 artful/binary-i386/Release
+ 91c2e249287c59d3404f4cb7ec1e9b49 816 artful/binary-amd64/Packages
+ 8ae67a0bab251963a4c7a6ba0822fb85 563 artful/binary-amd64/Packages.gz
+ 4d2d0e0ebaff30540fa5f6d085c858b5 93 artful/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ d72e239e792eb8377ba1dd09304fa9684ed937cb 90 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 1be369a9abfe37a0df0665091bcc3debda84c46a 91 main/binary-amd64/Release
+ 23843ad728d4998a1c8b4c643dd7d97316e55037 813 artful/binary-i386/Packages
+ f3c676dbee5e3a7de5c5b9e45a00575aa3f0012d 560 artful/binary-i386/Packages.gz
+ 552ff6f5450e06d32700fd310d331223e3f1baf0 92 artful/binary-i386/Release
+ 12021af5f5e83857ad6fcb420a1fc9a994caa69c 816 artful/binary-amd64/Packages
+ 3a63c03e0caad1c01e0a8f62cb53876788c5cbf0 563 artful/binary-amd64/Packages.gz
+ 441dc926963e9a653087693d0e0d517a5837c4d4 93 artful/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 5a7e234941182e3bacd3e9d462864a519cf0ef9f236c71b804def84d8b15cae3 90 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 71baae85c9e0aad55b9c4c3939a09c40a7767779fdba1922161e9bfe95d9c2cc 91 main/binary-amd64/Release
+ a8cea7d5fc293db24179ce7fbd16926faef20899a9d9d3c4cc933487256f4bc6 813 artful/binary-i386/Packages
+ b96e3a1f941a34516b609ddd2fc2c1faca19f5a99e5846c5a7482b0a725f4a84 560 artful/binary-i386/Packages.gz
+ 83151c2517c3ce43ebebf76ef86b2839e3d8d44ff7aaacc821f85fa3f87ae59a 92 artful/binary-i386/Release
+ 714cea73f81673c17aae7ca1ed07011057edc8f60a281a14b89fc67f6ebb5c3a 816 artful/binary-amd64/Packages
+ dfbcd671ffc03ee41bd877f43219fe32bc52348c759d51c0ebd63b99b3b05ef7 563 artful/binary-amd64/Packages.gz
+ 9e4fdc14c20a60ccc7e167ab71da8983a339d8beeb42079c1d2e64331cdd9902 93 artful/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCAAGBQJZ77+nAAoJEPTYwhrRo5QmTwEH/jZRDX8WicRdMGmxasv+8Hgf
+8kAcPzMutqbCTKjsW08Td0HSOlOaouwulcobFdfg2zKi2tfLeQD/Eo2GIq/gLBGC
+pa7uDLGhzkGb/GIGdCNaXXrX/6YBtsXg+MBnffyVHDIteTAWlc3pIsIQywpd05+W
+FPbRH7b2YlmPbXfBxc99WogRd+XuBsl/TTjM8faBBsHOZuviNeGHaj2gcC7Ftyxa
+GedjVk/P0WI/BJ8UPRQNU5QrE95ZL8dpKUoydj7TmDRFxDPqIOUWp6l5zDrQexJQ
+XXp8jbj87BswkyWB/kpgjAeaOdCv6s+VGFomEDJKOG5uPf5yHpsgBHAA6ElHTQo=
+=q5yq
+-----END PGP SIGNATURE-----
