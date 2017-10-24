@@ -1,7 +1,7 @@
 Origin: refi64 apt
 Label: refi64 apt
 Codename: zesty
-Date: Tue, 24 Oct 2017 22:09:53 UTC
+Date: Tue, 24 Oct 2017 22:33:11 UTC
 Architectures: i386 amd64
 Components: main zesty
 Description: todo
@@ -12,11 +12,11 @@ MD5Sum:
  524f6240fd4a17e3921eca29c1745566 631 main/binary-amd64/Packages
  a927e35953967eaa38be2c35847528aa 452 main/binary-amd64/Packages.gz
  6d1f356c55bf33445315b3d7ce0c5afa 91 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 zesty/binary-i386/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 zesty/binary-i386/Packages.gz
+ 32214682d689a1966af4e7806720f3a0 812 zesty/binary-i386/Packages
+ 0fcb557fb2d6007cc90f9fc34afd3c33 559 zesty/binary-i386/Packages.gz
  632a5bf78d12aceb957df3bc1ee25f4c 91 zesty/binary-i386/Release
- ca45eec8864d381f431af36417e5d1f3 632 zesty/binary-amd64/Packages
- 9b2b2881edf2c02e1786d34bfec55fe2 453 zesty/binary-amd64/Packages.gz
+ 6364dc5a7982b157b1b7e152ebf2b5e7 1447 zesty/binary-amd64/Packages
+ 51a4493b8ebdb7b1cf6970235a61d433 801 zesty/binary-amd64/Packages.gz
  79ca1185f900f11c434b708bf23ebf67 92 zesty/binary-amd64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
@@ -25,11 +25,11 @@ SHA1:
  6be4943ad7bc16c7588c2b0afa5e4ba2feb97866 631 main/binary-amd64/Packages
  3996d7093611007d4f4c2bff743449eed766c387 452 main/binary-amd64/Packages.gz
  1be369a9abfe37a0df0665091bcc3debda84c46a 91 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 zesty/binary-i386/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 zesty/binary-i386/Packages.gz
+ de10218feaa19c391959669702b7ea055946ae88 812 zesty/binary-i386/Packages
+ 0c8fb1a094affa97265408efdd06f998197f7018 559 zesty/binary-i386/Packages.gz
  41a5f064918e96445df6cf8cd30036553431bb7f 91 zesty/binary-i386/Release
- a2071149cd8e06075748dae2b48bb3279a551abc 632 zesty/binary-amd64/Packages
- 7e57591d9c89694d87b1660cba00099d23bdfc3a 453 zesty/binary-amd64/Packages.gz
+ 61d68fb8fa78166eb332c4089a9717bc7d86909e 1447 zesty/binary-amd64/Packages
+ 951618993bdeafb1f53f0e01c2d3872c7d690a16 801 zesty/binary-amd64/Packages.gz
  ff30354c1d8fa8616d3faa41d09a3843f2550189 92 zesty/binary-amd64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
@@ -38,9 +38,9 @@ SHA256:
  2952b7b7eeda133fe6767ce9e169418bc8a6dbbda3bb946f9d440bbb247c1800 631 main/binary-amd64/Packages
  4115e66de43df4db4e128d2559aa2b34c86f812f02ec75eb90ac86d4ff336efd 452 main/binary-amd64/Packages.gz
  71baae85c9e0aad55b9c4c3939a09c40a7767779fdba1922161e9bfe95d9c2cc 91 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 zesty/binary-i386/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 zesty/binary-i386/Packages.gz
+ d2e8b56f3e2845d44527b55ed02031abfbc41b2729857f48427cf6ebfb2cce01 812 zesty/binary-i386/Packages
+ 344d594423dfa3e4725a8746eafd733778e0a23a03dae6705736ccce4445b757 559 zesty/binary-i386/Packages.gz
  5fec738d48d02326947a062d753eb1a52e012c09b1629f49b5188222682373ba 91 zesty/binary-i386/Release
- 9ed93975ae6d40e79d35f51a6aae272c9398668aba2064395ac0fd60e94b4874 632 zesty/binary-amd64/Packages
- 81a5ba9f1132ead7dc7b32fc5d9974723838c5fcd9ffb90c87ef331713523085 453 zesty/binary-amd64/Packages.gz
+ cf698705cef986084ec9e6cb3dd7f888bea8c402d96dcebc4f1f10721881c2c6 1447 zesty/binary-amd64/Packages
+ 40585a6283b8e95274677b7a8b113c4a1a4414227a1a473176e1f37cfd0ed4b7 801 zesty/binary-amd64/Packages.gz
  f3fee10a8b8316f61d56978a86ce5d805f22ef9684472b8000b3c6bb69e0974a 92 zesty/binary-amd64/Release
