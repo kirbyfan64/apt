@@ -2,7 +2,7 @@ Origin: refi64 apt
 Label: refi64 apt
 Codename: trusty
 Architectures: i386 amd64
-Components: main
+Components: main trusty
 Description: todo
 SignWith: 7180B595A3EEE1D4
 
@@ -10,7 +10,7 @@ Origin: refi64 apt
 Label: refi64 apt
 Codename: xenial
 Architectures: i386 amd64
-Components: main
+Components: main xenial
 Description: todo
 SignWith: 7180B595A3EEE1D4
 
@@ -18,6 +18,14 @@ Origin: refi64 apt
 Label: refi64 apt
 Codename: zesty
 Architectures: i386 amd64
-Components: main
+Components: main zesty
+Description: todo
+SignWith: 7180B595A3EEE1D4
+
+Origin: refi64 apt
+Label: refi64 apt
+Codename: artful
+Architectures: i386 amd64
+Components: main artful
 Description: todo
 SignWith: 7180B595A3EEE1D4
