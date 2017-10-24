@@ -1,0 +1,16 @@
+Package: gn
+Version: 1.f4ecd4bed36c803a8ab88e44bd5a91bdd3d95d46
+Architecture: amd64
+Maintainer: Ryan Gonzalez <rymg19@gmail.com>
+Installed-Size: 1953
+Depends: libc6 (>= 2.15), libgcc1 (>= 1:3.0)
+Homepage: https://chromium.googlesource.com/chromium/src/tools/gn/
+Priority: optional
+Section: Development
+Filename: pool/xenial/g/gn/gn_1.f4ecd4bed36c803a8ab88e44bd5a91bdd3d95d46_amd64.deb
+Size: 635978
+SHA256: 602a5a7f1fe36f40b9bdb28789412a87fec60dc08c976aa45ce3335cbf9494a8
+SHA1: 450625274a3a369ed8ac046438788430826804d5
+MD5sum: 14c5b5e0a7d866209391d87a500a4b72
+Description: An unofficial, packaged version of Google's GN build system
+

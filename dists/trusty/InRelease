@@ -4,9 +4,9 @@ Hash: SHA256
 Origin: refi64 apt
 Label: refi64 apt
 Codename: trusty
-Date: Thu, 19 Oct 2017 22:27:21 UTC
+Date: Tue, 24 Oct 2017 22:09:53 UTC
 Architectures: i386 amd64
-Components: main
+Components: main trusty
 Description: todo
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
@@ -15,6 +15,12 @@ MD5Sum:
  524f6240fd4a17e3921eca29c1745566 631 main/binary-amd64/Packages
  a927e35953967eaa38be2c35847528aa 452 main/binary-amd64/Packages.gz
  6d1f356c55bf33445315b3d7ce0c5afa 91 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 trusty/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 trusty/binary-i386/Packages.gz
+ 293b45579a84b9ca515678d0c7828fff 92 trusty/binary-i386/Release
+ e218ef929c3a90ca1d25565d88fe0e00 633 trusty/binary-amd64/Packages
+ 701dc2c239709d0c4532dfddfb15c861 455 trusty/binary-amd64/Packages.gz
+ ed225e2c6ac4aec204b63baf2b30198a 93 trusty/binary-amd64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
@@ -22,6 +28,12 @@ SHA1:
  6be4943ad7bc16c7588c2b0afa5e4ba2feb97866 631 main/binary-amd64/Packages
  3996d7093611007d4f4c2bff743449eed766c387 452 main/binary-amd64/Packages.gz
  1be369a9abfe37a0df0665091bcc3debda84c46a 91 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 trusty/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 trusty/binary-i386/Packages.gz
+ 0841b988b06450f9b812bf7e090ffa3f5159ace6 92 trusty/binary-i386/Release
+ a34e488fd02751f8d22fc7295d6e2157a7c4320f 633 trusty/binary-amd64/Packages
+ 247dc9d00f4775077b21dd4057bcc069c07b73c5 455 trusty/binary-amd64/Packages.gz
+ 7b7ab2c799c248c557c7bcfa78aca2f764f93f40 93 trusty/binary-amd64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
@@ -29,13 +41,19 @@ SHA256:
  2952b7b7eeda133fe6767ce9e169418bc8a6dbbda3bb946f9d440bbb247c1800 631 main/binary-amd64/Packages
  4115e66de43df4db4e128d2559aa2b34c86f812f02ec75eb90ac86d4ff336efd 452 main/binary-amd64/Packages.gz
  71baae85c9e0aad55b9c4c3939a09c40a7767779fdba1922161e9bfe95d9c2cc 91 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 trusty/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 trusty/binary-i386/Packages.gz
+ bd2766195d6de1c6c9e241ce60debfe25ea119590c5e50f53b23691f4fd9a530 92 trusty/binary-i386/Release
+ 15974e89118cfe9cf6387ed3ab9a157e66a38df40e830d363af4afc4b1d6fc06 633 trusty/binary-amd64/Packages
+ ba7a1dea44cec710d43a58e24888f165986d7e5c7e1c49e0a41a2e4f8e598167 455 trusty/binary-amd64/Packages.gz
+ 4387a2149a55caeda1456190f9944517aed87ab690714e3d772da67f4de5b2c9 93 trusty/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJZ6SbKAAoJEPTYwhrRo5QmtzMH/0P9kUTHw9gGTSKP22nLL/H0
-U4Ov7Xu6g67poYZik5npP1l2ZGYsvorJK8bfq325hOoq5W682QxcXP8j4YP5QfEq
-qE9DVh22fbixfdwEfzn4YZy28DzNVovYzmtjIZNm4/OyGhGdyJptLuHwuNJdMh54
-ys7q9oJs5UwSqfpdmUfkyAQFA3rx+fNhf1SKUBzN7iAtZfbjbKvw3oebRjm9K2Jl
-A+80WdP4ILiimmo1Xfez90A20VOF9lruK+KOWCmVEz6/hXv8tEnJp1IlV8M+i2rb
-zUUigO9ftje/30O35+T2XFIDiXMYR3OVK3XRr8kXX7DIZ6iUDnLMtmZYAp1Wdq4=
-=vBYq
+iQEcBAEBCAAGBQJZ77oxAAoJEPTYwhrRo5QmxrgH/A5rQ2oS5H46+4sckrd6WzYc
+tXJiInST38fBN6RQK+QDbWV+qKKqs0xW08ko5+gOD6sYWnbrPtj9PpQ5TuWHa4hK
+UPhbkFpN6nwT/oHkgqnhKvI+F5Yn50pGpG6PW6wKqiuImYfSDYXSkFrKDALcRypM
+IaJ4MZgPj+apEok85idPcW4bEFymSiNuWuZWwft3pK8Se1i87+sLpTG5eaMsSZ0j
+fL75Bn12vg8Gys74VbQghyHfjIfEbBQ345bUZTYE5QqRxM39w0itWYsVcqjiCS4p
+c7CN3Dr9OHNoLdIHsFQD9kEmQ10ZgPZIQXaDGiuw0QAMHKXBQhupRKffiitai7I=
+=YrXQ
 -----END PGP SIGNATURE-----
