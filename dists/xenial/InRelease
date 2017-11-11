@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: refi64 apt
 Label: refi64 apt
 Codename: xenial
-Date: Tue, 24 Oct 2017 22:33:10 UTC
+Date: Sat, 11 Nov 2017 00:59:14 UTC
 Architectures: i386 amd64
 Components: main xenial
 Description: todo
@@ -15,11 +15,11 @@ MD5Sum:
  524f6240fd4a17e3921eca29c1745566 631 main/binary-amd64/Packages
  a927e35953967eaa38be2c35847528aa 452 main/binary-amd64/Packages.gz
  6d1f356c55bf33445315b3d7ce0c5afa 91 main/binary-amd64/Release
- f849db018f9c33b792883d890f2f2f54 813 xenial/binary-i386/Packages
- e912f699a84039fedfff8e408d591838 562 xenial/binary-i386/Packages.gz
+ a64e85148415f93bb5652760c3cfcc0d 813 xenial/binary-i386/Packages
+ 0cf40f5cd8f45de75d07e1d092ca0f3e 564 xenial/binary-i386/Packages.gz
  0f98747cae69c06784c9e5897e6931a6 92 xenial/binary-i386/Release
- f6004cfbe0141457b1a664c301323f04 1449 xenial/binary-amd64/Packages
- 5da291b02223ff1183fda23d1b28750b 803 xenial/binary-amd64/Packages.gz
+ d037a27cff2f119c6d893074728e25ad 1449 xenial/binary-amd64/Packages
+ a1bc66e32433be95b8ba2bef758ac147 803 xenial/binary-amd64/Packages.gz
  6d47bf93166e5998ab2265bc266a0a76 93 xenial/binary-amd64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
@@ -28,11 +28,11 @@ SHA1:
  6be4943ad7bc16c7588c2b0afa5e4ba2feb97866 631 main/binary-amd64/Packages
  3996d7093611007d4f4c2bff743449eed766c387 452 main/binary-amd64/Packages.gz
  1be369a9abfe37a0df0665091bcc3debda84c46a 91 main/binary-amd64/Release
- 016ca8092e7ba3b0475565430e532b5b187fa1fe 813 xenial/binary-i386/Packages
- a257e1c7b2b00239d4d7767d3b87b84923b1fe90 562 xenial/binary-i386/Packages.gz
+ e19c7cecf13328dc9290e7a89ef17d59073d74e7 813 xenial/binary-i386/Packages
+ ca8f6d4d7ffceb62cec44323fa67dc6a3df5fa2f 564 xenial/binary-i386/Packages.gz
  02d1bfae0c3c6a283f53b51035e1ba8ea9ea309d 92 xenial/binary-i386/Release
- 59efc9b545c755b3720093fb042443a149d5a3cc 1449 xenial/binary-amd64/Packages
- 820544bca4bd5b6b86522d312d5f43777ba4061c 803 xenial/binary-amd64/Packages.gz
+ 5de8d2f490a037823584be7c2bf1e45940caab44 1449 xenial/binary-amd64/Packages
+ e20538343f23589235b7095c87248e5522382fb6 803 xenial/binary-amd64/Packages.gz
  0bf3558f3de61f78b86ab57226602ae14ef0b609 93 xenial/binary-amd64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
@@ -41,19 +41,19 @@ SHA256:
  2952b7b7eeda133fe6767ce9e169418bc8a6dbbda3bb946f9d440bbb247c1800 631 main/binary-amd64/Packages
  4115e66de43df4db4e128d2559aa2b34c86f812f02ec75eb90ac86d4ff336efd 452 main/binary-amd64/Packages.gz
  71baae85c9e0aad55b9c4c3939a09c40a7767779fdba1922161e9bfe95d9c2cc 91 main/binary-amd64/Release
- 4b5c053873c145d6b85a04a4cc668d4dd9157733e75900a3f1582616c8662f6d 813 xenial/binary-i386/Packages
- 45d33bd22b93c87261e58d6337097545f7972f440e69d033f146a59e4c4fb1bb 562 xenial/binary-i386/Packages.gz
+ fc67545c0dadb32bc5f58bb33a34b45f145d74f47cae76791960ba8780dc5576 813 xenial/binary-i386/Packages
+ ae984576de3b2b6979143abbc8932061cdbf5570b05fcd2b21c556c2c895e69a 564 xenial/binary-i386/Packages.gz
  70bb3869119ee7d07b94984acb08a183a7d694358c24f752354688094b105a1f 92 xenial/binary-i386/Release
- 4cf8a48dc17a50034d9cca4daee8d7a4c1d94eac2a2b79f9cce40f9bbe2a36b3 1449 xenial/binary-amd64/Packages
- bb62efea382c769ed89546db2aa885efdec5073de40c3c1c90131ed935a46534 803 xenial/binary-amd64/Packages.gz
+ 5b8b2252a759deea38176ee03c550060ef7bf9cc72c845e4348d1c1d8b53a7a1 1449 xenial/binary-amd64/Packages
+ 691194528d769be307dd64cf8bbdee98f1a0ad709fccdf96f9f21d291001769d 803 xenial/binary-amd64/Packages.gz
  17fae5e1d8429d726229b3a6240896ac63ca55a67ba94c48aa1ea793a3fd242c 93 xenial/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCAAGBQJZ77+nAAoJEPTYwhrRo5QmMW0IALK4wMSCmytW6sRJs4rR12bp
-FLIqRZpeYoC5CEb6RxG9EDxqR11BVP52PHJi7DA/wLPQBI/ToKujWbfKguMJScy0
-kze5BPb8k8MtMwdWqzqu7Mg0jKKt0Mwu5Xa9gEqxxOR28XBd+m6Azgbiq7x1XkTJ
-jyoVlufE+wj1ArCdImUWXiNNqpfnNRdHOUS+fkVPuBBz8cDO2yOhEGCDdX+U3yvK
-IMPs9fTGMJLncvAEpb5XTsuJatx0lTzpdxIBHcdDP8gMrHK2h+IR7ngCHgn/PFjL
-dS1n8B4muiODj5jap7ogO2AOi1hhrOYbmJiLO5vWfIqOuMnqi6fN/cO1MhWduV0=
-=fSEp
+iQEcBAEBCAAGBQJaBktjAAoJEPTYwhrRo5QmVWQH/jNo5MDILH9kVGXQjJeOK+sY
+Nv/hoUXLaATYIuuVzi6f+BPaK/CwwVIm9ooySZmkzexWpEkr/KUXJ+6FGfAoWqhr
+rgRNBihzaIr98TQ1JloXLLinmdb68+2Dp6CGEKb+jXlYplHV3uHkJFBVpr+j8GdE
+AAL8QH87Tzgzt/0MgKQoqI6/E1vZW/KbSETw1bSm835anzuC1HTVJ1qYBtGROr81
+H9hzh58mwtypB8QdPoVqy0PDXvhRdYLSrQhn1laocqAtl0FfZ+1QUGz/nbI6hlQv
+rTt1xaYmz0YRKbcMr5c4YIRUALjqt17Nnxx4qkSKACZej9aeNbK0e61rVd41lZ4=
+=dQVZ
 -----END PGP SIGNATURE-----

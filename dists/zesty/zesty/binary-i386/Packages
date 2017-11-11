@@ -1,5 +1,5 @@
 Package: howl
-Version: 0.5.2
+Version: 0.5.3
 Architecture: i386
 Maintainer: Ryan Gonzalez <rymg19@gmail.com>
 Installed-Size: 6898
@@ -7,11 +7,11 @@ Depends: libc6 (>= 2.7), libgcc1 (>= 1:3.3), libglib2.0-0 (>= 2.16.0), libgtk-3-
 Homepage: https://howl.io/
 Priority: optional
 Section: Development
-Filename: pool/zesty/h/howl/howl_0.5.2_i386.deb
-Size: 1841318
-SHA256: e6291b11e28ec594a6f717a0f715fb740e987a9da3a1bd0d74bbfabefc7f106a
-SHA1: de80ae0cbab5b90a37ef4cbe0c851c57d51b12f1
-MD5sum: 1b6a8cfb54867ccf6c65b13b84f354f5
+Filename: pool/zesty/h/howl/howl_0.5.3_i386.deb
+Size: 1841646
+SHA256: b81dee291cb9bde6ddad23ced749eefdc2e76aaffb7237c4e9b1fb20a0bbef6b
+SHA1: 8b1918ddce0a639c4d533e86efa2702cc86a5cd5
+MD5sum: ecae1d9b1b829cfe94cbb556221f4726
 Description: A general purpose, fast and lightweight editor.
   Howl is a general purpose editor that aims to be both lightweight and fully customizable.
   It is built on top of the very fast LuaJIT runtime, and can be extended in either Lua or

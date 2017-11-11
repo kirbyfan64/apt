@@ -15,7 +15,7 @@ MD5sum: 14c5b5e0a7d866209391d87a500a4b72
 Description: An unofficial, packaged version of Google's GN build system
 
 Package: howl
-Version: 0.5.2
+Version: 0.5.3
 Architecture: amd64
 Maintainer: Ryan Gonzalez <rymg19@gmail.com>
 Installed-Size: 6902
@@ -23,11 +23,11 @@ Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.3), libglib2.0-0 (>= 2.16.0), libgtk-3
 Homepage: https://howl.io/
 Priority: optional
 Section: Development
-Filename: pool/zesty/h/howl/howl_0.5.2_amd64.deb
-Size: 1832654
-SHA256: 0db4d2fcdbdab09a4e3a7de7f2551e2f9d378130e5dea2e85620bee6261f4a20
-SHA1: 0105776adc529ade9a8f085fcf8230db01c2540d
-MD5sum: c653f8fa37f4f2804850ede723ea7f94
+Filename: pool/zesty/h/howl/howl_0.5.3_amd64.deb
+Size: 1833082
+SHA256: a48dc5ff12daeba9ee59af88e1367d1a483382982756e02a812d5f952de80c92
+SHA1: c82576ce872980b624e648a14e97bba9c84b85d4
+MD5sum: b523a017036b8560f2b1625fd6f04bc0
 Description: A general purpose, fast and lightweight editor.
   Howl is a general purpose editor that aims to be both lightweight and fully customizable.
   It is built on top of the very fast LuaJIT runtime, and can be extended in either Lua or
